@@ -16,3 +16,7 @@ face_db/
 __pycache__/
 # Игнорировать файлы конфигурации среды
 .env
+
+# Re-include project folders that should be versioned
+!ai_projects_hub/face_db/
+!ai_projects_hub/face_db/**
