@@ -8,9 +8,6 @@ Place these files exactly here:
 - `ai_projects_hub/models/yolo9c.pt`
 - `ai_projects_hub/models/yolo9e.pt`
 
-Optional/related data:
-- `ai_projects_hub/face_db/embeddings.json`
-
 ## Example Download (PowerShell)
 
 Release tag: `v1.0-models`
