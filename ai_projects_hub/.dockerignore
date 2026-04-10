@@ -7,7 +7,6 @@ env/
 venv/
 .env
 *.pt
-*.weights
 .git
 .gitignore
 Dockerfile
