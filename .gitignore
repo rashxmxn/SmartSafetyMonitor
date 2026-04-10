@@ -1,0 +1,18 @@
+# Игнорировать все файлы .log
+*.log
+*.pt
+*.pyc
+*.wav
+
+# Игнорировать директорию node_modules
+dataset/Remove-Item -Recurse -Force .git
+dataset_kaggle/
+venv/
+violation_screenshots/
+context_aware_screenshots/
+output_videos/
+videos/
+face_db/
+__pycache__/
+# Игнорировать файлы конфигурации среды
+.env
